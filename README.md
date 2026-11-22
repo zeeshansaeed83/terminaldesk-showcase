@@ -33,4 +33,4 @@ A bus and cargo operations system for transport companies, built as a multi-comp
 
 ## Author
 
-Zeeshan Saeed, senior .NET engineer. [Portfolio](https://zeeshansaeed83.github.io)
+Zeeshan Saeed, senior .NET engineer. [Portfolio](https://zeeshansaeed-dev.github.io)
